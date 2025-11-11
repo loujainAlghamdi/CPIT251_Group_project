@@ -88,4 +88,17 @@ Each test includes:
 ---
 
 📄 **Full Project Report:**  
-[Click here to view the documentation](docs/Haweia_Report.pdf)
+[Click here to view](docs/Haweia%20%20CPIT-251%20Project%20report_compressed.pdf)
+
+---
+
+## ✅ Notes
+This project was developed as part of the **CPIT-251** course at King Abdulaziz University.  
+It focuses on applying core concepts from:
+- Object-Oriented Programming (OOP)
+- UML modeling and software design
+- Waterfall development methodology
+- Unit testing using JUnit
+
+The system is a console-based academic project intended to demonstrate  
+requirements analysis, design diagrams, Java implementation, and test coverage.
