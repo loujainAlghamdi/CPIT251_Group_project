@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="docs/Haweia.png" alt="Haweia Banner" width="100%">
+</p>
+
 # HAWEIA – CPIT 251 Group Project  
 *A Java console-based system for cultural tourism in Saudi Arabia*
 
