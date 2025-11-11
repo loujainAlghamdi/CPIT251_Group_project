@@ -3,7 +3,7 @@
   <img src="docs/Haweia.png" alt="Haweia Banner" width="100%">
 </p>
 
-# HAWEIA – CPIT 251 Group Project  
+# HAWEIA Project  
 *A Java console-based system for cultural tourism in Saudi Arabia*
 
 Haweia is an academic project developed for **CPIT-251**, focusing on software development using **OOP, UML Modeling, Waterfall methodology, and Testing**.  
